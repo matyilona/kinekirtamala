@@ -45,6 +45,19 @@ Nézd meg hogy a letöltött dokumentum jobb felső sarkában ott van az AVDH b�
 
 [Ezen](http://www.valasztas.hu/valasztasi-irodak-elerhetosegei) a honlapon keresd ki a te választó irodád, és küld el nekik az érvényesített PDFet emailban!
 
+Ha épp nem jut eszedbe mit írj az e-mailba, itt egy példa:
+
+>Kedves Választási Iroda,
+>
+>több helyen is felmerült, hogy olyanok neve jelent meg ajánlóíveken akik azokat nem írták alá.
+>Ennek kapcsán szeretném megkérdezni mely pártok adtak le a nevemben ajánlást.
+>Csatolok egy, az ügyfélkapun keresztül hitelesített, dokumentumot amiben ugyanez a kérdés van megfogalmazva.
+>
+>Válaszukat előre is köszönöm:
+>
+>Név
+___Ne felejtsd el csatolni a hitelesített PDFet!___
+
 4. lépés: Kész!
 ---
 
