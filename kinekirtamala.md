@@ -56,6 +56,7 @@ Ha épp nem jut eszedbe mit írj az e-mailba, itt egy példa:
 >Válaszukat előre is köszönöm:
 >
 >Név
+
 ___Ne felejtsd el csatolni a hitelesített PDFet!___
 
 4. lépés: Kész!
