@@ -40,7 +40,7 @@ Ahhoz hogy digitálisan alá tudd írni a dokumentumot, szükség lesz az ügyf�
 Jelentkezz be az ügyfélkapuddal, és kis várakozás után már le is tudod tölteni az "aláírt" dokumentumot.
 Nézd meg hogy a letöltött dokumentum jobb felső sarkában ott van az AVDH bélyegző (az érvényesítés más láthatatlan dolgokat is belerak a fileba, amivel igazolják hogy azt valóban te érvényesítetted).
 
-3. lépés: Küld be!
+3. lépés: Küldd be!
 ---
 
 [Ezen](http://www.valasztas.hu/valasztasi-irodak-elerhetosegei) a honlapon keresd ki a te választó irodád, és küld el nekik az érvényesített PDFet emailban!
