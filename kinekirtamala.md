@@ -18,21 +18,21 @@ Milyen szövegszerkesztőt használsz: [MS Office Word](#kerelem-word), [Libre O
 - Töltsd le [ezt](/AlairasKerelem.docx) a dokumentumot, és nyisd meg Wordben
 - A dőlt vastag részeket töltsd ki a saját adataiddal. (OEVK meghatározása?)
 - Mentsd el pdf formátumban. (Pontosan hogy?)
-- [Érvényesitsd](#ervenyesit) a kérelmed
+- [Érvényesítsd](#ervenyesit) a kérelmed
 
 ### Libre Office Write <a name="kerelem-lo"></a>
 - Töltsd le [ezt](/AlairasKerelem.odf) a dokumentumot, és nyisd meg Wordben
 - A dőlt vastag részeket töltsd ki a saját adataiddal. (OEVK meghatározása?)
 - Mentsd el pdf formátumban: File -> Export As... -> Export as PDF
-- [Érvényesitsd](#ervenyesit) a kérelmed
+- [Érvényesítsd](#ervenyesit) a kérelmed
 
 ### Egyéb <a name="kerelem-egyeb"></a>
 - Töltsd le [ezt](/AlairasKerelem.txt) filet, és nyisd meg.
-- A megfelelő részeket töltsd ki a saját adataiddal. A teljes neveddel (2 helyen), személyi azonositód, a válsztókerületed adatait, és a dátumot.
+- A megfelelő részeket töltsd ki a saját adataiddal. A teljes neveddel (2 helyen), személyi azonosítód, a választókerületed adatait, és a dátumot.
 - Mentsd el pdf formátumban.
-- [Érvényesitsd](#ervenyesit) a kérelmed
+- [Érvényesítsd](#ervenyesit) a kérelmed
 
-2. lépés: Érvényesitsd!<a name="ervenyesit"></a>
+2. lépés: Érvényesítsd!<a name="ervenyesit"></a>
 ---
 
 Ahhoz hogy digitálisan alá tudd írni a dokumentumot, szükség lesz az ügyfélkapudra.
@@ -48,4 +48,4 @@ Nézd meg hogy a letöltött dokumentum jobb felső sarkában ott van az AVDH b�
 4. lépés: Kész!
 ---
 
-Ezzel kész is vagyunk, már csak meg kell várnod a választ, és ha megérkezett megtudhatod kimindenkinek írtál véletlenül alá amikor nem figyeltél oda.
+Ezzel kész is vagyunk, már csak meg kell várnod a választ, és ha megérkezett megtudhatod kinek írtál véletlenül alá amikor nem figyeltél oda.
