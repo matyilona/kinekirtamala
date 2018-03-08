@@ -1,1 +1,1 @@
-Informaci az ajanlasok elektronikus lekerdezesehez.
+Információ az ajánlások elektornikus lekárdezásáhez.

@@ -2,7 +2,7 @@ Kinek irtam alá?
 ====
 
 Szeretnéd megtudni hogy kinek írtad alá az ajánlóját úgy hogy észre se vetted, de nincs kedved kimozdulni?
-Ezzel az N egyszerű lépéssel megtudhatod!
+Ezzel az 4 egyszerű lépéssel megtudhatod!
 
 Amire szükséged lesz: szövegszerkesztő, lakcímkártya, ügyfélkapu (ha még nincs [itt](https://ugyfelkapu.magyarorszag.hu/regisztracio) igényelhetsz,hasznos dolog érdemes megcsinálni), 3 perc szabadidő.
 
