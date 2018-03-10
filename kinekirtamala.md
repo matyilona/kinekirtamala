@@ -12,7 +12,7 @@ Amire szükséged lesz: szövegszerkesztő, lakcímkártya, ügyfélkapu (ha mé
 Megírtunk egy kérvényt, amibe neked csak a saját adataidat kell kitöltened, és elmenteni .pdf formátumban.
 Itt kelleni fog a személyi azonosítód, ez a lakcím kártyán van rajta x-xxxxxx-xxxx formátumban.
 
-Milyen szövegszerkesztőt használsz: [MS Office Word](#kerelem-word), [Libre Office](#kerelem-lo), [Valami Maces dolog?](#???), [Egyéb](#kerelem-egyeb)
+Milyen szövegszerkesztőt használsz: [MS Office Word](#kerelem-word), [LibreOffice](#kerelem-lo), [Valami Maces dolog?](#???), [Egyéb](#kerelem-egyeb)
 
 ### MS Office Word <a name="kerelem-word"></a>
 - Töltsd le [ezt](/AlairasKerelem.docx) a dokumentumot, és nyisd meg Wordben
@@ -20,8 +20,8 @@ Milyen szövegszerkesztőt használsz: [MS Office Word](#kerelem-word), [Libre O
 - Mentsd el pdf formátumban. (Pontosan hogy?)
 - [Érvényesítsd](#ervenyesit) a kérelmed
 
-### Libre Office Write <a name="kerelem-lo"></a>
-- Töltsd le [ezt](/AlairasKerelem.odf) a dokumentumot, és nyisd meg Wordben
+### LibreOffice Writer <a name="kerelem-lo"></a>
+- Töltsd le [ezt](/AlairasKerelem.odf) a dokumentumot, és nyisd meg Writerben
 - A dőlt vastag részeket töltsd ki a saját adataiddal. (OEVK meghatározása?)
 - Mentsd el pdf formátumban: File -> Export As... -> Export as PDF
 - [Érvényesítsd](#ervenyesit) a kérelmed
