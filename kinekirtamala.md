@@ -21,7 +21,7 @@ Milyen szövegszerkesztőt használsz: [MS Office Word](#kerelem-word), [LibreOf
 - [Érvényesítsd](#ervenyesit) a kérelmed
 
 ### LibreOffice Writer <a name="kerelem-lo"></a>
-- Töltsd le [ezt](/AlairasKerelem.odf) a dokumentumot, és nyisd meg Writerben
+- Töltsd le [ezt](/AlairasKerelem.odt) a dokumentumot, és nyisd meg Writerben
 - A dőlt vastag részeket töltsd ki a saját adataiddal. (OEVK meghatározása?)
 - Mentsd el pdf formátumban: File -> Export As... -> Export as PDF
 - [Érvényesítsd](#ervenyesit) a kérelmed
